@@ -22,7 +22,9 @@ function Home() {
         <HeroHome />
         <FeaturesHome />
         <FeaturesBlocks />
-        <Testimonials />
+        {/* <Testimonials /> */}
+        <br />
+        <br />
         <Newsletter />
 
       </main>
